@@ -9,16 +9,17 @@ Access to Skills and Knowledge supporting media Art( A list of art tools that co
 - staple gun
 - Staples
 - Hammer(small) resizable
-- Hacksaww
+- Hacksaw
 - Crotchets
 - Sewing kit
 - Fisrt Aid kits
 - Rag Rugger
 - Rag Hooks
 - Pliers
-#### Bead crimper tool 
-#### Long Nose pliers
-#### Side cutters
+- Bead work tool
+  - Bead crimper tool 
+  - Long Nose pliers
+  - Side cutters
 - Tape Measure
 - Geometrical Set
 - Utility knife
